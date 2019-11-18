@@ -9,5 +9,5 @@ Cloned some basic functionality of the uber
 4. Add the Credential in the manifest file.
 5.In the folder where you forked the project there will be a file Uber.iml.txt change it to Uber.iml.
 
-Note: If you get Duplicate class Error then change to AndroidX.
+Note: If you get Duplicate class Error then migrate to AndroidX.
 Hope I will Help.
